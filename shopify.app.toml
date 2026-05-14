@@ -21,7 +21,7 @@ api_version = "2026-07"
   topics = [ "app/scopes_update" ]
 
 [auth]
-redirect_urls = [ "https://app-dev-5346.onrender.com/callback" ]
+redirect_urls = [ "https://app-dev-5346.onrender.com/auth/callback" ]
 
 [build]
 include_config_on_deploy = true
