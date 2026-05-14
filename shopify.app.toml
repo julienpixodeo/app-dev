@@ -2,7 +2,7 @@
 
 client_id = "fd7bbf9f80872dbe2ad0b74572b35b68"
 name = "APP-DEV"
-application_url = "https://example.com"
+application_url = "https://app-dev-5346.onrender.com"
 embedded = true
 
 [access_scopes]
@@ -21,7 +21,7 @@ api_version = "2026-07"
   topics = [ "app/scopes_update" ]
 
 [auth]
-redirect_urls = [ "https://example.com/api/auth" ]
+redirect_urls = [ "https://app-dev-5346.onrender.com/callback" ]
 
 [build]
 include_config_on_deploy = true
