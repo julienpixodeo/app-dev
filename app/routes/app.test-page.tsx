@@ -51,7 +51,7 @@ export default function TestPage() {
               loading={loading}
               onClick={deleteCustomer}
             >
-              Delete Customer
+              Delete Customer ! test
             </Button>
           </div>
         </div>
